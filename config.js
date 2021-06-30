@@ -1,8 +1,7 @@
 const CONFIG = {
     introTitle: 'Ơ kìa cậu!',
     introDesc: `không biết cậu có rảnh không :3`,
-    btnYes: 'có',
-    btnNo : 'không'
+    btnIntro: 'hihi',
     title: 'ở đây chưa có gì thú vị cả  😙',
     desc: 'thế giớ của mình thú vị hơn cậu có muốn bước đến nhắn tin với mình ',
     btnYes: 'Vẫn cứ là muốn nói chuyện với anh <33',
