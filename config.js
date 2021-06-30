@@ -9,7 +9,7 @@ const CONFIG = {
     question:'Có muốn nhắn gì cho mình không <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'không cho nhắn đâu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    mess: 'không nhắn được theo ý muốn à.vậy thì.. ',
     messDesc: 'bấm nữa đi .',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/TBG.Kild'
