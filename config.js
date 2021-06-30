@@ -12,8 +12,8 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại không ib cho anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'thích thì nhắn <33333333',
-    mess: 'Anh biết mà 🥰. em cute gke😘😘',
+    mess: 'Anh biết mà 🥰. em cute ghe😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/TBG.Kild'
+    messLink: 'https://www.facebook.com/TBG.Kild',
 }
