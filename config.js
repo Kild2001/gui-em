@@ -1,9 +1,10 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `tao kí ngực fan 2k3`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    introTitle: 'Ơ kìa cậu!',
+    introDesc: `không biết cậu có rảnh không :3`,
+    btnYes: 'có',
+    btnNo : 'không'
+    title: 'ở đây chưa có gì thú vị cả  😙',
+    desc: 'thế giớ của mình thú vị hơn cậu có muốn bước đến nhắn tin với mình ',
     btnYes: 'Vẫn cứ là muốn nói chuyện với anh <33',
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại không ib cho anh <3',
